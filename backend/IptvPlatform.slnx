@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Iptv.Api/Iptv.Api.csproj" />
+  <Project Path="Iptv.Application/Iptv.Application.csproj" />
+  <Project Path="Iptv.Domain/Iptv.Domain.csproj" />
+  <Project Path="Iptv.Infrastructure/Iptv.Infrastructure.csproj" />
+  <Project Path="Iptv.Shared/Iptv.Shared.csproj" />
+</Solution>

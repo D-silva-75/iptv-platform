@@ -1,0 +1,13 @@
+C:\Project\IptvPlatform\backend\Iptv.Domain\bin\Debug\net10.0\Iptv.Domain.deps.json
+C:\Project\IptvPlatform\backend\Iptv.Domain\bin\Debug\net10.0\Iptv.Domain.dll
+C:\Project\IptvPlatform\backend\Iptv.Domain\bin\Debug\net10.0\Iptv.Domain.pdb
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.csproj.AssemblyReference.cache
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.AssemblyInfoInputs.cache
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.AssemblyInfo.cs
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.csproj.CoreCompileInputs.cache
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.sourcelink.json
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.dll
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\refint\Iptv.Domain.dll
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\Iptv.Domain.pdb
+C:\Project\IptvPlatform\backend\Iptv.Domain\obj\Debug\net10.0\ref\Iptv.Domain.dll
